@@ -1,0 +1,23 @@
+article{
+	background-color: red;
+	font-family:arial;
+	border-style: solid;
+}
+
+section{
+background-color: yellow;
+}
+element{
+
+}
+.Naujas1{
+	color: green;
+}	
+a[href="https://www.youtube.com/"]:hover{
+	color: blue;
+}
+#youtube{
+border-radius:10px;
+border-style: solid;
+align-self: center;
+}

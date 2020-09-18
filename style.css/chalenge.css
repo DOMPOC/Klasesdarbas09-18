@@ -1,0 +1,15 @@
+a[href$=".odt"] {
+color:black;
+​}
+a[href$=".pdf"] {
+	color: yellow;
+}
+a[href$=".xml"] {
+	color:blue;
+}
+a[href$=".txt"] {
+	color: red;
+}
+a[href$=.psd] {
+	color: pink;
+}
